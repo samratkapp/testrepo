@@ -29,27 +29,13 @@
             "https://imagecdn.99acres.com/media1/24040/13/480813088M-1710745894292.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "miraj",
-            "CONTACT_COMPANY_NAME": "Golden Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "20218",
-            "BUILDING_NAME": "Gokul Gardens",
-            "SOCIETY_NAME": "Gokul Gardens",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "ADDRESS": "Near Kailash Market",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Gokul Gardens",
+            "society_name": "Gokul Gardens",
+            "address": "Near Kailash Market",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -82,27 +68,13 @@
             "https://imagecdn.99acres.com/media1/23996/2/479922454M-1710409753239.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Damania Properties",
-            "CONTACT_COMPANY_NAME": "DAMANIA PROPERTIES",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "1445",
-            "BUILDING_NAME": "Lunkad Goldcoast",
-            "SOCIETY_NAME": "Lunkad Goldcoast",
-            "LOCALITY_ID": "25855",
-            "LOCALITY_NAME": "Clover Park",
-            "ADDRESS": "Lunkad Goldcoast",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Goldcoast",
+            "society_name": "Lunkad Goldcoast",
+            "address": "Lunkad Goldcoast",
+            "locality_name": "Clover Park"
         }
     },
     {
@@ -129,26 +101,12 @@
             "https://imagecdn.99acres.com/media1/24034/11/480691952M-1710671706782.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "RAJU",
-            "CONTACT_COMPANY_NAME": "SHUBH LABH REAL ESTATE",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "0",
-            "BUILDING_NAME": "",
-            "SOCIETY_NAME": "",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "",
+            "society_name": "",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -165,26 +123,12 @@
         "brokerage": "37000",
         "deposit": "3",
         "profile": {
-            "CONTACT_NAME": "RAJU",
-            "CONTACT_COMPANY_NAME": "SHUBH LABH REAL ESTATE",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "465219",
-            "BUILDING_NAME": "Eden Garden",
-            "SOCIETY_NAME": "Eden Garden",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Eden Garden",
+            "society_name": "Eden Garden",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -218,27 +162,13 @@
             "https://imagecdn.99acres.com/media1/23749/3/474983626M-1708526232251.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Sanjay Paswan",
-            "CONTACT_COMPANY_NAME": "Orbit Real Estate",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "479218",
-            "BUILDING_NAME": "Camlot Society",
-            "SOCIETY_NAME": "Camlot Society",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "222",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Camlot Society",
+            "society_name": "Camlot Society",
+            "address": "222",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -267,26 +197,12 @@
             "https://imagecdn.99acres.com/media1/24187/4/483744040M-1712062564266.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Saurabh Patil",
-            "CONTACT_COMPANY_NAME": "Makaan Makers ",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "550915",
-            "BUILDING_NAME": "Rohan Parijat",
-            "SOCIETY_NAME": "Rohan Parijat",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohan Parijat",
+            "society_name": "Rohan Parijat",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -319,27 +235,13 @@
             "https://imagecdn.99acres.com/media1/24161/5/483225764M-1711827301106.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Pradeep Wadpillai",
-            "CONTACT_COMPANY_NAME": "Maxgrow Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "1448",
-            "BUILDING_NAME": "Lunkad Amazon",
-            "SOCIETY_NAME": "Lunkad Amazon",
-            "LOCALITY_ID": "25855",
-            "LOCALITY_NAME": "Clover Park",
-            "ADDRESS": "604",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Amazon",
+            "society_name": "Lunkad Amazon",
+            "address": "604",
+            "locality_name": "Clover Park"
         }
     },
     {
@@ -369,27 +271,13 @@
             "https://imagecdn.99acres.com/media1/24087/3/481743830M-1711096571330.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Damania Properties",
-            "CONTACT_COMPANY_NAME": "DAMANIA PROPERTIES",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "20098",
-            "BUILDING_NAME": "Goel Ganga Hamlet",
-            "SOCIETY_NAME": "Goel Ganga Hamlet",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "Goel Ganga Hamlet",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Goel Ganga Hamlet",
+            "society_name": "Goel Ganga Hamlet",
+            "address": "Goel Ganga Hamlet",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -418,26 +306,12 @@
             "https://imagecdn.99acres.com/media1/23804/18/476098654M-1709019664803.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Sales Team",
-            "CONTACT_COMPANY_NAME": "Sharda Realtors",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "159652",
-            "BUILDING_NAME": "Blue Line",
-            "SOCIETY_NAME": "Blue Line",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Blue Line",
+            "society_name": "Blue Line",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -470,27 +344,13 @@
             "https://imagecdn.99acres.com/media1/24040/14/480814868M-1710745876704.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "miraj",
-            "CONTACT_COMPANY_NAME": "Golden Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "1030066",
-            "BUILDING_NAME": "Lunkad Gold Coast",
-            "SOCIETY_NAME": "Lunkad Gold Coast",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "Near Airport Road",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Gold Coast",
+            "society_name": "Lunkad Gold Coast",
+            "address": "Near Airport Road",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -520,27 +380,13 @@
             "https://imagecdn.99acres.com/media1/24182/15/483655104M-1712048574225.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Tushar Parkhe",
-            "CONTACT_COMPANY_NAME": "CAPSTONE REALTY",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "11952",
-            "BUILDING_NAME": "Bramhacorp F Residences",
-            "SOCIETY_NAME": "Bramhacorp F Residences",
-            "LOCALITY_ID": "837",
-            "LOCALITY_NAME": "Kalyani Nagar",
-            "ADDRESS": "Kalyani Nagar Pune",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Bramhacorp F Residences",
+            "society_name": "Bramhacorp F Residences",
+            "address": "Kalyani Nagar Pune",
+            "locality_name": "Kalyani Nagar"
         }
     },
     {
@@ -572,26 +418,12 @@
             "https://imagecdn.99acres.com/media1/23539/3/470783582M-1706789575882.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Rohit Waghchaure",
-            "CONTACT_COMPANY_NAME": "Classic Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/22962/6/459246408O-1701434406318.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "1446",
-            "BUILDING_NAME": "Lunkad Queensland",
-            "SOCIETY_NAME": "Lunkad Queensland",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Queensland",
+            "society_name": "Lunkad Queensland",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -619,27 +451,13 @@
             "https://imagecdn.99acres.com/media1/24146/17/482937492M-1711707728339.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Akshay Adagale",
-            "CONTACT_COMPANY_NAME": "Akshay Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://imagecdn.99acres.com/media1/23967/13/479353504O-1710237784399.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "0",
-            "BUILDING_NAME": "Gokul Gardens Viman Nagar.",
-            "SOCIETY_NAME": "Gokul Gardens Viman Nagar.",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Gokul Gardens Viman Nagar.",
+            "society_name": "Gokul Gardens Viman Nagar.",
+            "address": "Viman Nagar",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -669,27 +487,13 @@
             "https://imagecdn.99acres.com/media1/24146/13/482933258M-1711707125534.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Trinita Capital",
-            "CONTACT_COMPANY_NAME": "Trinita Capital LLP",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "http://www.trinitacapital.com",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/20770/8/415408758O-1680265462819.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "887086",
-            "BUILDING_NAME": "Rohanmithila",
-            "SOCIETY_NAME": "Rohanmithila",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "301",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohanmithila",
+            "society_name": "Rohanmithila",
+            "address": "301",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -717,27 +521,13 @@
             "https://imagecdn.99acres.com/media1/24145/16/482916226M-1711704684724.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Sanat Thakur",
-            "CONTACT_COMPANY_NAME": "Kargil Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "http://kargilproperties.com",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/10414/17/208297599O-1576495491704.jpeg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "3772",
-            "BUILDING_NAME": "Rohan Mithila",
-            "SOCIETY_NAME": "Rohan Mithila",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "ADDRESS": "304",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohan Mithila",
+            "society_name": "Rohan Mithila",
+            "address": "304",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -766,27 +556,13 @@
             "https://imagecdn.99acres.com/media1/24145/16/482916372M-1711704713542.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Sanat Thakur",
-            "CONTACT_COMPANY_NAME": "Kargil Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "http://kargilproperties.com",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/10414/17/208297599O-1576495491704.jpeg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "3772",
-            "BUILDING_NAME": "Rohan Mithila",
-            "SOCIETY_NAME": "Rohan Mithila",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "ADDRESS": "402",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohan Mithila",
+            "society_name": "Rohan Mithila",
+            "address": "402",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -816,27 +592,13 @@
             "https://imagecdn.99acres.com/media1/24146/13/482933166M-1711707082017.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Misha Property",
-            "CONTACT_COMPANY_NAME": "Hiranandani Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "3772",
-            "BUILDING_NAME": "Rohan Mithila",
-            "SOCIETY_NAME": "Rohan Mithila",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "ADDRESS": "555",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohan Mithila",
+            "society_name": "Rohan Mithila",
+            "address": "555",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -866,27 +628,13 @@
             "https://imagecdn.99acres.com/media1/24145/16/482916312M-1711704727998.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Misha Property",
-            "CONTACT_COMPANY_NAME": "Hiranandani Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "3772",
-            "BUILDING_NAME": "Rohan Mithila",
-            "SOCIETY_NAME": "Rohan Mithila",
-            "LOCALITY_ID": "25889",
-            "LOCALITY_NAME": "Mhada Colony",
-            "ADDRESS": "Rohan Mithila,viman Nagar Pune",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Rohan Mithila",
+            "society_name": "Rohan Mithila",
+            "address": "Rohan Mithila,viman Nagar Pune",
+            "locality_name": "Mhada Colony"
         }
     },
     {
@@ -914,27 +662,13 @@
             "https://imagecdn.99acres.com/media1/24180/3/483603178M-1712038272336.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Akshay Adagale",
-            "CONTACT_COMPANY_NAME": "Akshay Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://imagecdn.99acres.com/media1/23967/13/479353504O-1710237784399.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "134233",
-            "BUILDING_NAME": "Nitron Landmark",
-            "SOCIETY_NAME": "Nitron Landmark",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Nitron Landmark",
+            "society_name": "Nitron Landmark",
+            "address": "Viman Nagar",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -963,26 +697,12 @@
             "https://imagecdn.99acres.com/media1/24062/11/481251152M-1710917548728.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Rohit Waghchaure",
-            "CONTACT_COMPANY_NAME": "Classic Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/22962/6/459246408O-1701434406318.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "769050",
-            "BUILDING_NAME": "Lunkad Colonnade 2",
-            "SOCIETY_NAME": "Lunkad Colonnade 2",
-            "LOCALITY_ID": "25855",
-            "LOCALITY_NAME": "Clover Park",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Colonnade 2",
+            "society_name": "Lunkad Colonnade 2",
+            "locality_name": "Clover Park"
         }
     },
     {
@@ -1012,26 +732,12 @@
             "https://imagecdn.99acres.com/media1/24057/13/481153852M-1710853745802.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Rohit Waghchaure",
-            "CONTACT_COMPANY_NAME": "Classic Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://mediacdn.99acres.com/media1/22962/6/459246408O-1701434406318.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "41964",
-            "BUILDING_NAME": "Kumar Primavera",
-            "SOCIETY_NAME": "Kumar Primavera",
-            "LOCALITY_ID": "21651",
-            "LOCALITY_NAME": "Sainath Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Kumar Primavera",
+            "society_name": "Kumar Primavera",
+            "locality_name": "Sainath Nagar"
         }
     },
     {
@@ -1060,27 +766,13 @@
             "https://imagecdn.99acres.com/media1/24162/0/483240048M-1711946831277.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Megha Kadam",
-            "CONTACT_COMPANY_NAME": "Sumegh Properties",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "11952",
-            "BUILDING_NAME": "Bramhacorp F Residences",
-            "SOCIETY_NAME": "Bramhacorp F Residences",
-            "LOCALITY_ID": "837",
-            "LOCALITY_NAME": "Kalyani Nagar",
-            "ADDRESS": "703",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Bramhacorp F Residences",
+            "society_name": "Bramhacorp F Residences",
+            "address": "703",
+            "locality_name": "Kalyani Nagar"
         }
     },
     {
@@ -1109,27 +801,13 @@
             "https://imagecdn.99acres.com/media1/24122/12/482452590M-1711526508444.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Akshay Adagale",
-            "CONTACT_COMPANY_NAME": "Akshay Enterprises",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://imagecdn.99acres.com/media1/23967/13/479353504O-1710237784399.jpg",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "0",
-            "BUILDING_NAME": "Lalwani Vastu, Viman Nagar.",
-            "SOCIETY_NAME": "Lalwani Vastu, Viman Nagar.",
-            "LOCALITY_ID": "842",
-            "LOCALITY_NAME": "Viman Nagar",
-            "ADDRESS": "Viman Nagar",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lalwani Vastu, Viman Nagar.",
+            "society_name": "Lalwani Vastu, Viman Nagar.",
+            "address": "Viman Nagar",
+            "locality_name": "Viman Nagar"
         }
     },
     {
@@ -1159,27 +837,13 @@
             "https://imagecdn.99acres.com/media1/24052/8/481048418M-1710835889969.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Chaube Homes Realty and Developer",
-            "CONTACT_COMPANY_NAME": "Chaube Homes Realty & Developer",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "11952",
-            "BUILDING_NAME": "Bramhacorp F Residences",
-            "SOCIETY_NAME": "Bramhacorp F Residences",
-            "LOCALITY_ID": "837",
-            "LOCALITY_NAME": "Kalyani Nagar",
-            "ADDRESS": "000",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Bramhacorp F Residences",
+            "society_name": "Bramhacorp F Residences",
+            "address": "000",
+            "locality_name": "Kalyani Nagar"
         }
     },
     {
@@ -1213,27 +877,13 @@
             "https://imagecdn.99acres.com/media1/23356/4/467124366M-1705149966640.jpg"
         ],
         "profile": {
-            "CONTACT_NAME": "Damania Properties",
-            "CONTACT_COMPANY_NAME": "DAMANIA PROPERTIES",
-            "CLASS_LABEL": "A",
-            "CONTACT_CITY": "19",
-            "URL": "",
-            "PHOTO_URL": "https://static.99acres.com/images/dealer_pnava.png",
-            "super": [
-                null
-            ],
-            "DEALER_SEO_URL": ""
+            "contact_no": "9856423651"
         },
         "location": {
-            "CITY": "19",
-            "CITY_NAME": "Pune",
-            "BUILDING_ID": "1445",
-            "BUILDING_NAME": "Lunkad Goldcoast",
-            "SOCIETY_NAME": "Lunkad Goldcoast",
-            "LOCALITY_ID": "25855",
-            "LOCALITY_NAME": "Clover Park",
-            "ADDRESS": "Lunkad Goldcoast",
-            "CITY_SEO_ENTITY_LABEL": "Pune"
+            "building_name": "Lunkad Goldcoast",
+            "society_name": "Lunkad Goldcoast",
+            "address": "Lunkad Goldcoast",
+            "locality_name": "Clover Park"
         }
     }
 ]
